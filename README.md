@@ -9,6 +9,10 @@
 - Exploratory Data Analysis (EDA) of the dataset, with a greater focus on Total Energy Dispatched from energy;
 - Creation of a predictive model of the behavior of Total Energy using the SARIMA model.
 
+## Stacks
+- Language: Python;
+- Model Creation - Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
+
 ## Main project graphics
 
 ### Line Chart of Total Dispatched Energy
